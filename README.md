@@ -1,11 +1,32 @@
-# Getting Started with Create React App
+# Video Search App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple search app that allows you to enter search terms and get video results using the YouTube API. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Demo
+
+The app is deployed using Netify [Here](https://tender-cray-1ef763.netlify.app/)
+
+## Getting Started
+
+### Dependencies
+
+* React
+* CSS
+* YouTube API
+* Axios
+
+
+### Installing
+
+Clone the repo in your terminal writting:
+
+$ git clone https://github.com/dondev1992/vid-search-web-app.git
 
 In the project directory, you can run:
 
+### npm install
+
+This will install all necessary dependencies for project
 ### `npm start`
 
 Runs the app in the development mode.\
